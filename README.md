@@ -30,3 +30,6 @@ Create an Instagram-friendly recruitment poster with minimal text and bold ‘Jo
 - HR branding  
 - Social media hiring posts  
 - Classroom demonstration of AI tools  
+## Project File
+
+[5 Practical Prompts for Class Demonstration](project.docx)
